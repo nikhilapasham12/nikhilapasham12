@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nikhila Pasham
-#### I a Full Stack Web Developer
+#### I am a Full Stack Web Developer
 I’m a Full Stack Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with C#, .Net , Messaging, SQL, Cloud and also have passion to work with new technologies.
 
 ## Skills and Experience
