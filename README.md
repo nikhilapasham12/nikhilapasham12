@@ -8,7 +8,7 @@ Skills:  JS / HTML / CSS/C#/.Net/Rabbit MQ/SQL/ORACLE/Azure/Micro Services/REST 
 - 🌱 I’m currently learning Azure in depth, MERN stack 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikhilapasham12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Nikhila P/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikhilapasham12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/np1/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilapasham12&show_icons=true)  
 
